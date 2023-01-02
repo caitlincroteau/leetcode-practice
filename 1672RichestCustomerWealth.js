@@ -1,3 +1,5 @@
+//jan 2, 2023
+
 var maximumWealth = function (accounts) {
   let maxWealth = 0;
   for (let i = 0; i < accounts.length; i++) {

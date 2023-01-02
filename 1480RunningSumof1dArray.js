@@ -1,3 +1,5 @@
+//Jan 2 , 2023
+
 // const runningSum = function (nums) {
 //   let result = [];
 
